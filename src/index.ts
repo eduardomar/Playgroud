@@ -1,4 +1,4 @@
-import { getDebug } from '@debug';
+import getDebug from '@debug';
 
 const debug = getDebug();
 
