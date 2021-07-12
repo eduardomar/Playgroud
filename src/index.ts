@@ -1,4 +1,5 @@
-import {getDebug} from '@debug'
-const debug=getDebug()
+import { getDebug } from '@debug';
 
-debug('index')
+const debug = getDebug();
+
+debug('index');
