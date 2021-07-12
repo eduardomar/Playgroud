@@ -16,5 +16,10 @@
     ],
     "rules": {
         "quotes":["error", "single"]
+    },
+    "settings": {
+      "import/resolver": {
+        "typescript": {}
+      }
     }
 }
